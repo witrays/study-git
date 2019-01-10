@@ -18,3 +18,5 @@
 ## edit2
 
 ## push到远程仓库
+
+## ssh协议还是https协议
